@@ -1,0 +1,53 @@
+body{
+    background: #000;
+    color: rgb(255, 255, 255);
+}
+header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+.nav_bar{
+    display:flex;
+    background: #0f007af3;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color:whitesmoke; 
+}
+img{
+    background: radial-gradient(rgb(0, 0, 175)20%,rgb(1, 2, 26) 81%);
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(218, 200, 3);
+}
+figcaption{
+    margin: 5% 10% 0% 30%;
+    font-size: 200%;
+}
+#home{
+    display: flex;
+    justify-content:space-evenly;
+}
+#wish{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+}
+#my_name{
+    font-family:inherit;
+    font-size: 400%;
+}
+#intro{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 180%;
+}
+footer{
+    text-align: center;
+    padding-top: 1px;
+    background-color: rgb(0, 0, 95);
+    height: 50px;
+}
