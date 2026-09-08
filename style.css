@@ -1,4 +1,6 @@
 body{
+    margin: 0px;
+    padding: 0px;
     background: #000;
     color: rgb(255, 255, 255);
 }
@@ -19,11 +21,11 @@ a{
     color:whitesmoke; 
 }
 img{
-    background: radial-gradient(rgb(0, 0, 175)20%,rgb(1, 2, 26) 81%);
+    background: white;
     border-radius: 100%;
     border-style: solid;
     border-width: 3px;
-    border-color: rgb(218, 200, 3);
+    border-color: #4919f6;
 }
 figcaption{
     margin: 5% 10% 0% 30%;
